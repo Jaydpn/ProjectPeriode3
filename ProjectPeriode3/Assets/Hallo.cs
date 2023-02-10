@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Hallo : MonoBehaviour
 {
+    public float hallo2;
     // Start is called before the first frame update
     void Start()
     {
